@@ -3,6 +3,10 @@ body {
   max-width: 800px;
 }
 
+div[title="header"] {
+  display: none;
+}
+
 @font-face {
     font-family: 'Chalkduster';
     font-style: normal;
