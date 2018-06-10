@@ -7,6 +7,10 @@ div[title="header"] {
   display: none;
 }
 
+p img {
+  border-radius: 50%;
+}
+
 @font-face {
     font-family: 'Chalkduster';
     font-style: normal;
