@@ -11,6 +11,10 @@ p img {
   border-radius: 50%;
 }
 
+a {
+  text-decoration: none;
+}
+
 @font-face {
     font-family: 'Chalkduster';
     font-style: normal;
