@@ -15,6 +15,20 @@ a {
   text-decoration: none;
 }
 
+#mc_embed_signup {
+  color: #ffff66;
+}
+
+#mc_embed_signup .button {
+  background-color: #ffcc99;
+  color: #990066;
+  font-weight: bold;
+}
+
+#mc_embed_signup .button:hover {
+  background-color: #ff9999;
+}
+
 @font-face {
     font-family: 'Chalkduster';
     font-style: normal;
